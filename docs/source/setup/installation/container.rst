@@ -1,4 +1,0 @@
-.. _container:
-
-Container Installation
-======================
