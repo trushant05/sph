@@ -118,7 +118,7 @@ html_css_files = ["custom.css"]
 html_theme_options = {
     "path_to_docs": "docs/",
     "collapse_navigation": True,
-    "repository_url": "https://github.com/trushant05/sphinx_book_theme_template",
+    "repository_url": "https://github.com/trushant05/sph",
     "use_repository_button": True,
     "use_issues_button": True,
     "use_edit_page_button": True,
@@ -130,20 +130,14 @@ html_theme_options = {
     "icon_links": [
             {
                 "name": "GitHub",
-                "url": "https://github.com/trushant05/sphinx_book_theme_template",
+                "url": "https://github.com/trushant05/sph",
                 "icon": "fa-brands fa-square-github",
                 "type": "fontawesome",
             },
             {
-                "name": "Isaac Sim",
-                "url": "https://developer.nvidia.com/isaac-sim",
-                "icon": "https://img.shields.io/badge/IsaacSim-4.5.0-silver.svg",
-                "type": "url",
-            },
-            {
                 "name": "Stars",
-                "url": "https://img.shields.io/github/stars/trushant05/sphinx_book_theme_template?color=fedcba",
-                "icon": "https://img.shields.io/github/stars/trushant05/sphinx_book_theme_template?color=fedcba",
+                "url": "https://img.shields.io/github/stars/trushant05/sph?color=fedcba",
+                "icon": "https://img.shields.io/github/stars/trushant05/sph?color=fedcba",
                 "type": "url",
             },
         ],
